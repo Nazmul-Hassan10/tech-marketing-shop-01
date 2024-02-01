@@ -4,8 +4,9 @@ import Navbar from "../../shared/navbar/Navbar";
 const Home = () => {
     return (
         <div>
-            <Navbar></Navbar>
-            <Footer></Footer>
+            this is home
+            {/* <Navbar></Navbar>
+            <Footer></Footer> */}
         </div>
     );
 };
